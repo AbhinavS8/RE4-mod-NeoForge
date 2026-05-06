@@ -1,0 +1,13 @@
+{
+  "itemGroup.dqsre4": "Example Mod Tab",
+  "block.dqsre4.example_block": "Example Block",
+  "item.dqsre4.example_item": "Example Item",
+
+  "dqsre4.configuration.title": "DQ's RE4 Mod Configs",
+  "dqsre4.configuration.section.dqsre4.common.toml": "DQ's RE4 Mod Configs",
+  "dqsre4.configuration.section.dqsre4.common.toml.title": "DQ's RE4 Mod Configs",
+  "dqsre4.configuration.items": "Item List",
+  "dqsre4.configuration.logDirtBlock": "Log Dirt Block",
+  "dqsre4.configuration.magicNumberIntroduction": "Magic Number Text",
+  "dqsre4.configuration.magicNumber": "Magic Number"
+}
